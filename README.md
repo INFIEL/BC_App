@@ -84,9 +84,18 @@ Programa:
         + Escolhas: Comprar(parcelar, á vista, etc.), Vender, Não-Comprar/Vender (=> IPCA PODE SER APRESENTADO DESSA FORMA, MOSTRANDO A IMPORTÂNCIA DO MESMO NO MERCADO FINCANCEIRO);
         + Carteira: Mostra todas as Verdinhas Disponíveis(pode ser todas do seu Avatar ou uma pequena parte), bem como os métodos de pagamentos disponíveis(cartão de crédito poderia ser uma conquista após um número X de Verdinhas adiquiridas pelo Avatar, por exemplo);
         + Posses adquiridas: uma espécie de Inventário, mostrando seu valor em Verdinhas, que pode oscilando também em função dos ìndices;
-        
-    - Informativo:
-        + Tipos de 
+
+    - Investimentos: Nessa parte, será focada a questão dos investimentos, sendo apresentado ao usuário as diferentes formas de se investir, seja na Bolsa, Fundos de Investimentos, Renda Fixa, Poupança, etc.(Seus lucros serão passados para sua Carteira de Verdinhas no Avatar, seguindo os preceitos de cada investimento);
+        + Tempo acelerado: para o investimento não ser demorado, será necessário "adiar" o tempo dos investimentos (Ex.: a cada jogada(situação apresentada mediante escolha de decisão do usuário) será avançado em um dia(ou 3 horas??) na Vida Financeira. Dessa forma, ele poderá entender a duração do seu investimento);
+        + Investimentos Adquiridos: semelhante à função Posses Adquiridas, porém para Investimentos, sendo mostrado em cada um o Nome do Investimento, o tipo, a data de compra, a rentabilidade, a data de validade do vencimento, e possíveis taxas de custo, mostrando por fim o valor investido, o retorno bruto e liquido, e qualquer informação necessária para permitir que o próprio usuário faça, de maneira simples, o cálculo da sua rentabilidade);
+        + Mini Calculadora de Rentabilidade??
+
+
+    - Informativo/Teoria a ser aplicada no Jogo (=> ACREDITO QUE PARA ESSA PARTE SERÁ FUNDAMENTAL O CONHECIMENTO DA LEILA!!!):
+        + Formas de Pagamento: funcionamento dos cartões de crédito, cheques(especiais ou convencionais), parcelamento,etc. 
+        + Tipos de Dívidas e possíveis formas de solucioná-las;
+        + Tipos de Investimentos e suas vantagens e desvantagens;
+        + Cálculo de Rentabilidade para Investimentos;
 
 
 
