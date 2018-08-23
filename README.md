@@ -6,11 +6,11 @@ Recursos disponíveis:
     - Uso da banco de dados Firebase;
     - Uso do Android 6 como ambiente de desenvolvimento;
     - Base de dados:
-        Taxa SELIC:                  https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic 
-        Taxa IPCA:             https://dadosabertos.bcb.gov.br/dataset/4447-indice-nacional -de-precos-ao-consumidor-amplo-ipca---comercializaveis Indice IBOVESPA:
+        + Taxa SELIC:                  https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic 
+        + Taxa IPCA:             https://dadosabertos.bcb.gov.br/dataset/4447-indice-nacional -de-precos-ao-consumidor-amplo-ipca---comercializaveis + + Indice IBOVESPA:
          http://www.bmfbovespa.com.br/pt_br/servicos/market-data/cotacoes/ Yahoo Finance: https://ﬁnance.yahoo.com/ Google Finance: https://www.google.com/ﬁnance 
-        Investing: https://br.investing.com/ 
-        Infomoney: https://www.infomoney.com.br/ 
+        + Investing: https://br.investing.com/ 
+        + Infomoney: https://www.infomoney.com.br/ 
 
 
 Principais Funções do Programa:
@@ -59,7 +59,34 @@ Programa:
         + Acesso para a área MENU;
 
     - Menu:
-        + 
+        + Simuladores (=> GAME);
+        + Informativo;
+        + Avatar;
+
+    - Avatar:
+        + Editar Perfil;
+        + Badges;
+        + Conquistas;
+        + Verinhas(nome fictício para o dinheiro virtual => USO
+        ESPECÍFICO PARA OS SIMULADORES);
+            * Adcionar Verdinhas;
+            * Emprestar Verdinhas;
+            * Pedir emprestado Verdinhas;
+
+    - Simuladores:
+        + Investimentos;
+        + Pagamento de Dívidas;
+        + Vida Financeira;
+
+
+    - Vida Financeira:
+        + Jogo => Tomada de Decisão com base em situações financeiras reais;
+        + Escolhas: Comprar(parcelar, á vista, etc.), Vender, Não-Comprar/Vender (=> IPCA PODE SER APRESENTADO DESSA FORMA, MOSTRANDO A IMPORTÂNCIA DO MESMO NO MERCADO FINCANCEIRO);
+        + Carteira: Mostra todas as Verdinhas Disponíveis(pode ser todas do seu Avatar ou uma pequena parte), bem como os métodos de pagamentos disponíveis(cartão de crédito poderia ser uma conquista após um número X de Verdinhas adiquiridas pelo Avatar, por exemplo);
+        + Posses adquiridas: uma espécie de Inventário, mostrando seu valor em Verdinhas, que pode oscilando também em função dos ìndices;
+        
+    - Informativo:
+        + Tipos de 
 
 
 
