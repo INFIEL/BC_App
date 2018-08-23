@@ -3,17 +3,20 @@ Aplicativo para Banco Central.
 Objetivo do App: Ensinar um uso inteligente do dinheiro e recursos disponíveis por parte do usuário
 
 Recursos disponíveis:
+
     - Uso da banco de dados Firebase;
     - Uso do Android 6 como ambiente de desenvolvimento;
     - Base de dados:
-        + Taxa SELIC:                  https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic 
-        + Taxa IPCA:             https://dadosabertos.bcb.gov.br/dataset/4447-indice-nacional -de-precos-ao-consumidor-amplo-ipca---comercializaveis + + Indice IBOVESPA:
+    
+        + Taxa SELIC:https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic 
+        + Taxa IPCA: https://dadosabertos.bcb.gov.br/dataset/4447-indice-nacional -de-precos-ao-consumidor-amplo-ipca---comercializaveis         + Indice IBOVESPA:
          http://www.bmfbovespa.com.br/pt_br/servicos/market-data/cotacoes/ Yahoo Finance: https://ﬁnance.yahoo.com/ Google Finance: https://www.google.com/ﬁnance 
         + Investing: https://br.investing.com/ 
         + Infomoney: https://www.infomoney.com.br/ 
 
 
 Principais Funções do Programa:
+
     - Banco de Dados: será utilizado pelo programa para pegar seus dados para sua exibição em diferentes telas e sua armazenação no firebase;
     - Cadastro do usuário:
         + Nome de Usurário;
