@@ -17,12 +17,12 @@ Recursos disponíveis:
 
 Principais Funções do Programa:
 
-    - Banco de Dados: será utilizado pelo programa para pegar seus dados para sua exibição em diferentes telas e sua armazenação no firebase;
+    - Banco de Dados: será utilizado pelo programa para pegar seus dados para sua exibição em diferentes telas e seu armazenamento no firebase;
     - Cadastro do usuário:
         + Nome de Usurário;
         + Nome Completo;
         + Telefone;
-        + Data de Nascimento(Restrição a menores de 16 anos??) ;
+        + Data de Nascimento (Restrição a menores de 16 anos??) ;
         + Localidade;
         + Sexo;
         + Senha;
@@ -31,14 +31,14 @@ Principais Funções do Programa:
     - Dados Bancários:
         + Necessário já possuir um cadastro previamente aprovado!!!
         + CPF (Necessário??);
-        + Contas Bancárias(numero, agência e tipo talvez?) => OPICIONAL;
+        + Contas Bancárias(numero, agência e tipo talvez?) => OPCIONAL;
         + Renda Mensal Bruta;
 
 
-    - Uso de Histórias Interativas com o objetivo de intruir o usuário a melhor aplicar seu dinheiro, apresentando-o as consequências, sejam positivas(ganho) ou negativas(perca desnecessária) do seu dinheiro (Questionários ou um "Mini-Game" de testes com um valor fictício a ser gasto ou ganho pelo usuário => RPG ANTIGO??);
+    - Uso de Histórias Interativas com o objetivo de intruir o usuário a melhor aplicar seu dinheiro, apresentando-o as consequências, sejam positivas (ganho) ou negativas (perda desnecessária) do seu dinheiro (Questionários ou um "Mini-Game" de testes com um valor fictício a ser gasto ou ganho pelo usuário => RPG ANTIGO??);
     
     - Simulador de uso dos recursos financeiros para pagar dívidas:
-        + Entrada: Valor real da Dívida ou/e Valor da Dívida??(Outras entradas de dados também serão necesárias??);
+        + Entrada: Valor real da Dívida ou/e Valor da Dívida??(Outras entradas de dados também serão necessárias??);
         + Escolha feita pelo processo de Gamificação;
         + Armazanação do Nome do usuário, valores inseridos e escolha feita para futuras análises;
 
@@ -70,9 +70,9 @@ Programa:
         + Editar Perfil;
         + Badges;
         + Conquistas;
-        + Verinhas(nome fictício para o dinheiro virtual => USO
+        + Verdinhas (nome fictício para o dinheiro virtual => USO
         ESPECÍFICO PARA OS SIMULADORES);
-            * Adcionar Verdinhas;
+            * Adicionar Verdinhas;
             * Emprestar Verdinhas;
             * Pedir emprestado Verdinhas;
 
